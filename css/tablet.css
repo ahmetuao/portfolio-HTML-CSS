@@ -1,0 +1,42 @@
+@media(min-width: 768px) {
+    .bg-dark-blue {
+        background: black;
+    }
+    .btn-primary {
+        background: rgb(73, 73, 73);
+    }
+    
+    .btn-primary:hover {
+        color: rgb(73, 73, 73);
+        background: white;
+        border: 1px solid rgb(73, 73, 73);
+    }
+    #training .items .item1:hover {
+        color: white;
+        background: rgb(73, 73, 73);
+        border: 1px solid white;
+        border-radius: 10px;
+    }
+    #training .items .item2:hover {
+        color: rgb(73, 73, 73);
+        background: white;
+        border: 1px solid rgb(73, 73, 73);
+        border-radius: 10px;
+    }
+    #training .items .item3:hover {
+        color: black;
+        background: rgb(73, 73, 73) ;
+        border: 1px solid rgb(73, 73, 73);
+        border-radius: 10px;
+    }
+    .course {
+        background: ghostwhite;
+        color:rgb(73, 73, 73);
+        border: 1px solid rgb(73, 73, 73);
+    }
+    .course:hover {
+        background: rgb(73, 73, 73);
+        color: ghostwhite;
+        border: 1px solid rgb(73, 73, 73);
+    }
+}
